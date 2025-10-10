@@ -1,10 +1,17 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
+  - #### [Apps](https://kherrick.github.io/apps/)
 
-<a href="https://kherrick.github.io/apps/">
-  <img src="https://raw.githubusercontent.com/kherrick/apps/main/src/assets/images/screenshot.png" />
-</a>
+    A [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) that aims to adhere to the [App Shell model](https://angular.dev/ecosystem/service-workers/app-shell). Comprised of several components that operate within the [Angular](https://angular.dev/) framework, the primary routes are [prerendered](https://angular.dev/guide/prerendering) as static HTML during the build process and are [loaded lazily](https://angular.dev/guide/routing/common-router-tasks#lazy-loading) at runtime to ensure a smaller client-side JavaScript bundle. Read more at the [Apps Project Page](https://github.com/kherrick/apps).
+
+    [![Apps Screenshot](https://raw.githubusercontent.com/kherrick/apps/main/src/assets/images/screenshot.png)](https://kherrick.github.io/apps/)
+
+  - #### [Sprite Garden](https://kherrick.github.io/sprite-garden/)
+
+    A 2D sandbox exploration and farming game. Explore procedurally generated worlds, discover different biomes, mine resources, and cultivate a variety of crops. Read more at the [Sprite Garden Project Page](https://github.com/kherrick/sprite-garden).
+
+    [![Sprite Garden - Animation](https://raw.githubusercontent.com/kherrick/sprite-garden/cb3663079e54940c595b8b8c4059c60790891bfb/assets/sprite-garden-animation.gif)](https://kherrick.github.io/sprite-garden/)
 
 <!--
 - 🌱 I’m currently learning ...
@@ -15,3 +22,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
