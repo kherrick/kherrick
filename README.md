@@ -1,11 +1,19 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
+
   - #### [Apps](https://kherrick.github.io/apps/)
 
     A [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) that aims to adhere to the [App Shell model](https://angular.dev/ecosystem/service-workers/app-shell). Comprised of several components that operate within the [Angular](https://angular.dev/) framework, the primary routes are [prerendered](https://angular.dev/guide/prerendering) as static HTML during the build process and are [loaded lazily](https://angular.dev/guide/routing/common-router-tasks#lazy-loading) at runtime to ensure a smaller client-side JavaScript bundle. Read more at the [Apps Project Page](https://github.com/kherrick/apps).
 
     [![Apps Screenshot](https://raw.githubusercontent.com/kherrick/apps/main/src/assets/images/screenshot.png)](https://kherrick.github.io/apps/)
+
+  - #### [Block Garden](https://kherrick.github.io/block-garden/)
+
+    A 3D sandbox exploration and farming game. Explore procedurally generated worlds, dig resources, and cultivate a variety of plants. Read more at the [Block Garden Project Page](https://github.com/kherrick/block-garden).
+
+    [![Block Garden - Animation](https://raw.githubusercontent.com/kherrick/block-garden/refs/heads/main/assets/block-garden-animation.gif)](https://kherrick.github.io/block-garden/)
+
 
   - #### [Sprite Garden](https://kherrick.github.io/sprite-garden/)
 
